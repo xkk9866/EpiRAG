@@ -1,0 +1,11 @@
+torch
+transformers
+datasets
+numpy
+sentencepiece
+accelerate
+safetensors
+rank-bm25
+httpx
+huggingface-hub
+matplotlib
